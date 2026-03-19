@@ -45,7 +45,7 @@ from pathlib import Path
 import pytest
 import yaml
 
-from vllm_spyre_next.testing.models import (
+from vllm_upstream_tests.models import (
     AllowEntry,
     BlockEntry,
     FileConfig,
